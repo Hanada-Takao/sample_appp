@@ -31,6 +31,7 @@ group :development do
   gem 'bullet'
   gem 'annotate'
   gem 'rails-flog', require: 'flog'
+  gem 'pry-byebug'
 end
 
 group :test do
